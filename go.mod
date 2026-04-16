@@ -1,4 +1,4 @@
-module github.com/cr3/postfix_exporter
+module github.com/taradix/postfix_exporter
 
 go 1.26.0
 

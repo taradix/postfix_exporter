@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cr3/postfix_exporter/mock"
+	"github.com/taradix/postfix_exporter/mock"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"
