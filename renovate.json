@@ -3,6 +3,7 @@
   "extends": [
     "config:recommended"
   ],
+  "forkProcessing": "enabled",
   "automerge": true,
   "automergeType": "pr",
   "automergeStrategy": "squash",
